@@ -1,7 +1,12 @@
+.DS_Store
 __pycache__/
 *.py[cod]
 .venv/
+venv/
 .env
 .env.*
+!.env.example
 .streamlit/secrets.toml
-.DS_Store
+*.log
+物光备份-*.json
+wuguang-backup*.json

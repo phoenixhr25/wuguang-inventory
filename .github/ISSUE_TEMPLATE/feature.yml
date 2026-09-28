@@ -1,0 +1,40 @@
+name: 功能建议
+description: 描述真实场景和希望完成的事情
+title: "[Feature] "
+labels: ["enhancement", "triage"]
+body:
+  - type: textarea
+    id: situation
+    attributes:
+      label: 真实使用场景
+      description: 你在什么情况下遇到这个问题？
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: 目前如何解决
+      description: 你现在用什么工具或方法？哪里最麻烦？
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: 希望得到的结果
+      description: 描述结果，不必设计具体按钮。
+    validations:
+      required: true
+  - type: dropdown
+    id: value
+    attributes:
+      label: 这项能力最接近哪种价值
+      options:
+        - 更快录入
+        - 避免重复购买
+        - 提高已有物品使用率
+        - 找到或整理物品
+        - 跨设备或家庭共享
+        - 其他
+    validations:
+      required: true
+
