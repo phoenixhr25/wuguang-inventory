@@ -1,5 +1,7 @@
 # 物光 Wuguang
 
+[English README](README_EN.md) · 中文
+
 > 先看见拥有，再决定购买。
 
 物光是一个照片优先、数据本地保存的个人物品盘点工具。它帮助用户逐步建立物品库、记录购买金额与使用情况，并用已有衣物生成基础搭配。
@@ -106,11 +108,3 @@ Windows PowerShell 激活环境：
 - [Grocy](https://github.com/grocy/grocy)：家庭消耗品和库存管理。
 
 当前仓库没有复制这些项目的代码。未来如引入第三方代码，将按相应许可证保留版权和许可声明。
-
----
-
-## English
-
-Wuguang is a photo-first, local-first personal inventory MVP. It helps people see what they already own, record use, and build simple outfits from their existing wardrobe.
-
-The current release stores data and photos in the browser, supports full JSON backup and restore, and does not call an AI service. See the documents above for architecture, privacy boundaries, and the roadmap.
