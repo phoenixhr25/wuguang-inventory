@@ -26,6 +26,7 @@ The current version still requires users to enter the name and category manually
 - Build basic combinations from tops, bottoms, dresses, and shoes;
 - Record “I wore this outfit today” and view recent usage history;
 - Export and restore a complete JSON backup, including photos;
+- Use the in-app feedback entry for WeChat guidance or a structured GitHub Issue;
 - Expose an optional read-only WebMCP tool named `read_inventory_summary` in compatible environments.
 
 ## Current Limitations
