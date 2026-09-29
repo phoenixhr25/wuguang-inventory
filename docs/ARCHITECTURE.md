@@ -10,7 +10,7 @@ Streamlit Community Cloud
         ├── 图片压缩
         ├── IndexedDB
         │   ├── 物品
-        │   ├── 压缩照片 Blob
+        │   ├── 压缩照片并转换为 Data URL
         │   └── 使用记录
         ├── JSON 备份与恢复
         └── 可选的只读 WebMCP 工具
@@ -32,12 +32,12 @@ Streamlit Python 服务不接收用户照片。照片由浏览器读取、压缩
   "price": 399,
   "color": "蓝白",
   "location": "卧室衣柜",
-  "photo": "Blob",
+  "photo": "data:image/jpeg;base64,...",
   "createdAt": "ISO-8601"
 }
 ```
 
-使用事件记录物品 ID、类型与时间。备份导出时，照片 Blob 转换成 Data URL 并写入 JSON；导入前会校验格式、字段范围、ID、日期和图片类型。
+使用事件记录物品 ID、类型与时间。照片压缩后以 Data URL 保存到 IndexedDB，并直接写入 JSON 备份；导入前会校验格式、字段范围、ID、日期和图片类型。旧版本保存的 Blob 会在页面启动时自动转换。
 
 ## 为什么当前使用本地存储
 
