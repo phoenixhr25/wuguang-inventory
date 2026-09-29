@@ -78,6 +78,7 @@ Windows PowerShell 激活环境：
 ## 产品与技术路线
 
 - [产品说明](docs/PRODUCT.md)
+- [穿搭组合发现算法](docs/OUTFIT_DISCOVERY.md)
 - [技术架构](docs/ARCHITECTURE.md)
 - [路线图与时间预估](docs/ROADMAP.md)
 - [隐私与数据说明](docs/PRIVACY.md)
