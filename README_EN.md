@@ -19,11 +19,11 @@ The current version still requires users to enter the name and category manually
 ## Current Features
 
 - Take a photo or select multiple photos and confirm them one at a time;
-- Record name, category, quantity, unit price, colour, and storage location;
-- Search and filter by category;
+- Record name, major category, subcategory, quantity, unit price, colour, and storage location;
+- Filter by Clothing, Home, and Digital;
 - Summarise item count and recorded purchase value;
 - Record individual item usage;
-- Build basic combinations from tops, bottoms, dresses, and shoes;
+- Build basic combinations from tops, bottoms, dresses, outerwear, shoes, bags, and accessories;
 - Record “I wore this outfit today” and view recent usage history;
 - Export and restore a complete JSON backup, including photos;
 - Use the in-app feedback entry for WeChat guidance or a structured GitHub Issue;
