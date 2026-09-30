@@ -76,9 +76,9 @@ The `wuguang-backup` JSON file contains photos, item details, and usage records.
 
 ## Product and Technical Documents
 
-The detailed documents are currently written in Chinese:
-
-- [Product definition](docs/PRODUCT.md)
+- [Product definition (Chinese)](docs/PRODUCT.md)
+- [Product decision: from personal inventory to a personal belongings archive](docs/PRODUCT_DECISION_2026-09-30_EN.md) · [中文](docs/PRODUCT_DECISION_2026-09-30.md)
+- [Outfit discovery algorithm (Chinese)](docs/OUTFIT_DISCOVERY.md)
 - [Architecture](docs/ARCHITECTURE.md)
 - [Roadmap and time estimates](docs/ROADMAP.md)
 - [Privacy and data notes](docs/PRIVACY.md)
