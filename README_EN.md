@@ -23,10 +23,13 @@ The current version still requires users to enter the name and category manually
 - Filter by Clothing, Home, and Digital;
 - Summarise item count and recorded purchase value;
 - Record individual item usage;
+- Navigate by four product areas: Inventory, How to Use, About It, and Data & Backup;
+- Enter category-specific usage areas for clothing, home items, and digital devices while retaining the complete clothing workflow;
+- Add an optional story to any item, review stories in one place, and export a privacy-controlled PNG story card;
 - Build basic combinations from tops, bottoms, dresses, outerwear, shoes, bags, and accessories;
 - Record “I wore this outfit today” and view recent usage history;
 - Chart item appearance rates and exact-combination appearance rates from recorded wears;
-- Export and restore a complete JSON backup, including photos;
+- Export and restore a complete JSON backup containing photos, stories, items, and usage history, with backward compatibility for earlier backups without stories;
 - Use the in-app feedback entry for WeChat guidance or a structured GitHub Issue;
 - Expose an optional read-only WebMCP tool named `read_inventory_summary` in compatible environments.
 
