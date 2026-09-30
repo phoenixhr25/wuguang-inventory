@@ -80,6 +80,7 @@ Windows PowerShell 激活环境：
 ## 产品与技术路线
 
 - [产品说明](docs/PRODUCT.md)
+- [产品决策：从物品盘点到个人物品档案](docs/PRODUCT_DECISION_2026-09-30.md)
 - [穿搭组合发现算法](docs/OUTFIT_DISCOVERY.md)
 - [技术架构](docs/ARCHITECTURE.md)
 - [路线图与时间预估](docs/ROADMAP.md)
