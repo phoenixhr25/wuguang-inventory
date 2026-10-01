@@ -27,6 +27,7 @@ The current version still requires users to enter the name and category manually
 - Enter category-specific usage areas for clothing, home items, and digital devices while retaining the complete clothing workflow;
 - Add an optional story to any item, review stories in one place, and export a privacy-controlled PNG story card;
 - Build basic combinations from tops, bottoms, dresses, outerwear, shoes, bags, and accessories;
+- Tag clothing for Everyday, Commute, Workout, and Social occasions; incompatible items are filtered out before outfit ranking;
 - Record “I wore this outfit today” and view recent usage history;
 - Chart item appearance rates and exact-combination appearance rates from recorded wears;
 - Export and restore a complete JSON backup containing photos, stories, items, and usage history, with backward compatibility for earlier backups without stories;
