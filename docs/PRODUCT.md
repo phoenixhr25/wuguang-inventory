@@ -67,7 +67,7 @@
 | 健身 | 健身、跑步和其他运动 |
 | 聚会 | 聚会、约会、聚餐和看展 |
 
-衣物可多选适用场合，新增衣物默认“日常”。场合首先作为硬约束：例如仅标记“健身”的单品不会进入通勤候选。没有场合字段的旧衣物暂时视为四种场合均可用，避免升级后已有组合消失。未来再由 AI 推测正式度、风格、季节和适用场合，用户只确认低置信度结果。
+衣物可多选适用场合，新增衣物默认“日常”。“日常”是完整衣橱入口，不按标签排除或优先单品；通勤、健身和聚会才将场合作为硬约束，例如仅标记“健身”的单品不会进入通勤候选。没有场合字段的旧衣物暂时视为四种场合均可用，避免升级后已有组合消失。未来再由 AI 推测正式度、风格、季节和适用场合，用户只确认低置信度结果。
 
 这一选择遵循场景感知穿搭研究的共同结论：视觉上协调并不等于在特定场合合适，推荐需要将场合上下文纳入兼容性判断。参考 [Theme-Matters](https://arxiv.org/abs/1912.06227)、[Scene-aware Fashion Recommender System](https://opus.lib.uts.edu.au/handle/10453/177283) 和 [Fashion Outfit Complementary Item Retrieval](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Fashion_Outfit_Complementary_Item_Retrieval_CVPR_2020_paper.pdf)。
 
