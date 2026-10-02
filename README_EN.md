@@ -24,8 +24,8 @@ The current version still requires users to enter the name and category manually
 - Summarise item count and recorded purchase value;
 - Record individual item usage;
 - Navigate by four product areas: Inventory, How to Use, About It, and Data & Backup;
-- Filter the inventory by clothing, other items, and digital devices while retaining category-specific usage flows for clothing and digital devices; legacy home-item records appear under Other Items;
-- Review 30-day usage coverage, category coverage, recency, pending items, status changes, and maintenance history for Other Items;
+- Filter the inventory by clothing, other items, and digital devices; the usage view is ordered Clothing, Digital, and Other, while legacy home-item records remain compatible under Other Items;
+- Record Other Item usage multiple times on the same day, and review 30-day use count, item coverage, category coverage, recency, pending items, status changes, and maintenance history;
 - Add an optional story to any item, review stories in one place, and export a privacy-controlled PNG story card;
 - Build basic combinations from tops, bottoms, dresses, outerwear, shoes, bags, and accessories;
 - Tag clothing for Everyday, Commute, Workout, and Social occasions; Everyday searches the full wardrobe, while the other occasions filter incompatible items before ranking;
