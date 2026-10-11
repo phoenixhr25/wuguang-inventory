@@ -87,6 +87,7 @@ The `wuguang-backup` JSON file contains photos, item details, and usage records.
 - [Architecture](docs/ARCHITECTURE.md)
 - [Roadmap and time estimates](docs/ROADMAP.md)
 - [Privacy and data notes](docs/PRIVACY.md)
+- [Beginner image-recognition evaluation kit](ml/eval/README.md) (Chinese)
 
 The next priorities are:
 

@@ -10,3 +10,8 @@ venv/
 *.log
 物光备份-*.json
 wuguang-backup*.json
+
+# Private ML evaluation data. Keep real household photos and labels local.
+ml/eval/private_images/
+ml/eval/private_labels.csv
+ml/eval/private_predictions*.csv

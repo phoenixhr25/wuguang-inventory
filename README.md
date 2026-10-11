@@ -90,6 +90,7 @@ Windows PowerShell 激活环境：
 - [技术架构](docs/ARCHITECTURE.md)
 - [路线图与时间预估](docs/ROADMAP.md)
 - [隐私与数据说明](docs/PRIVACY.md)
+- [图片识别评测集入门](ml/eval/README.md)
 
 下一阶段优先验证：
 
